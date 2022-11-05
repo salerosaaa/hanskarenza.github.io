@@ -1,0 +1,21 @@
+body {
+    min-height: 3000px;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #d3d3d3;
+}
+
+#galeri {
+    background-color: #d3d3d3;
+}
+
+footer a:hover {
+    color: white;
+    text-decoration: none;
+    
+}
+
+section {
+    padding-top: 5rem;
+}
